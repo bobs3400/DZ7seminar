@@ -10,5 +10,5 @@ def ritm(text):
     if len(set(lst_1)) == 1:
         return "Парам пам-пам"
     return "Пам парам"
-text = 'парам пам-пам'
+text = 'парам пам-паме'
 print(ritm(text))
